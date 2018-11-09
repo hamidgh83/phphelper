@@ -1,5 +1,5 @@
 {
-    "name": "root/textparser",
+    "name": "hamidgh83/phphelper",
     "type": "library",
     "require": {
         "php": ">=7.0"
